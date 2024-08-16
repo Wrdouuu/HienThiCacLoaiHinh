@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\bin\Debug\net8.0\HienThiCacLoaiHinh.exe
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\bin\Debug\net8.0\HienThiCacLoaiHinh.deps.json
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\bin\Debug\net8.0\HienThiCacLoaiHinh.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\bin\Debug\net8.0\HienThiCacLoaiHinh.dll
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\bin\Debug\net8.0\HienThiCacLoaiHinh.pdb
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.dll
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\refint\HienThiCacLoaiHinh.dll
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.pdb
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\HienThiCacLoaiHinh.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\HienThiCacLoaiHinh\obj\Debug\net8.0\ref\HienThiCacLoaiHinh.dll
